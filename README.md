@@ -17,3 +17,7 @@
 ## Автор
 
 Сидоров Иван Вячеславович
+
+## Репозиторий
+
+https://github.com/wellqxStudyHXL/dev-card
